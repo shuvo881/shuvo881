@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Agricultural AI Doctor](https://agricultural-ai-doctor.onrender.com/)
 
-- 👯 I’m looking to collaborate on [Urgent Online Market Place](https://urgentonlinemarketplace-production.up.railway.app/)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

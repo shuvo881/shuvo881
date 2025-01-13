@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvo881" alt="shuvo881" /></a> </p>
 
-- 🔭 I’m currently working on [Agricultural AI Doctor](https://agricultural-ai-doctor.onrender.com/)
 
   
 
